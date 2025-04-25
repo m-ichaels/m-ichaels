@@ -7,7 +7,7 @@ I’m **Michael Sharp** (GitHub: [@m-ichaels](https://github.com/m-ichaels))
 ### 👨‍💻 About Me
 
 - **Profession**: Graduate professional research analyst  
-- **Passion**: Exploring the power of programming and machine learning to solve complex finaical problems.
+- **Passion**: Exploring the power of programming and machine learning to solve complex problems.
 
 ---
 
