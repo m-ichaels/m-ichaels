@@ -1,46 +1,17 @@
-# Hi there! 👋
+# Michael Sharp
 
-I’m **Michael Sharp** (GitHub: [@m-ichaels](https://github.com/m-ichaels))
+Analyst on the FX and credit trading desks at Crédit Agricole CIB, London.
+MEng Chemical Engineering, University of Birmingham.
 
----
+I work on quantitative problems in markets: pricing and hedging in dealer
+markets, execution and order-book microstructure, and statistical signals
+from market and text data. Python, C++ and SQL; kdb+/q for tick data.
 
-### 👨‍💻 About Me
+First author of *Long-term stability of Ce-Cu modified Ni-8YSZ electrodes
+under both fuel cell and co-electrolysis operation*, International Journal
+of Hydrogen Energy, in press, 2026.
 
-- **Profession**: Graduate professional research analyst  
-- **Passion**: Exploring the power of programming and machine learning to solve complex problems.
+Public repositories here are research projects; each README states the
+question, the data, the method and one out-of-sample result, with tests.
 
----
-
-### 🎯 Purpose of This Account
-
-This GitHub account serves as:
-
-- **Programming Portfolio**: A place to showcase my coding fluency and technical skills across various languages and frameworks.
-- **Collaboration Hub**: A platform to store, develop, and collaborate on ongoing machine learning projects.
-
----
-
-### 📋 Highlighted Repositories
-
-To illustrate my programming proficiency, the following repositories have been made public (to showcase my ability is certain areas):
-
-- **backtesting_lr**: (Python) A complex, multi-programmed approach to machine learning model development and testing for generating profit through trading equities.
-- **lstm_stock_prediction**: (python) A simple, efficient approach to time-series prediction, aimed at showcasing my ability to generate high predictive accuracy (>90%).
-- **hangman_ml**: (Python) Compatible with an outside API, this code showcases my comfort with all main machine learning algorithms.
-- **high_freq_cpp**: (C++) A short, demonstation program (backtesting with some randomly generated information) designed to highlight my fluency with C++ syntax.
-- **moving_averages_in_R**: (R) Financial data analysis in R, aimed at showing my comfort with R data analysis.
-
----
-
-### 🚀 Skills & Interests
-
-- **Programming**: Python, R, C++, SQL, PowerBI, and more.
-- **Machine Learning**: Hands-on experience with supervised and unsupervised learning, neural networks, and data preprocessing.
-- **Quantitative Analysis**: Statistical modeling, financial analysis, and algorithm development.
-- **Project Collaboration**: Open to connecting with like-minded professionals for innovative ML solutions.
-
----
-
-### 📫 Let’s Connect!
-
-Feel free to reach out or explore my repositories to learn more about my work. I’m always eager to discuss new ideas, potential collaborations, or exciting projects!
+[LinkedIn](https://linkedin.com/in/-michael-sharp) · m.chaelsharp@gmail.com
